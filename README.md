@@ -1,2 +1,2 @@
-# nesting
+# pynesting
 Nesting algorithm implemented by Python
